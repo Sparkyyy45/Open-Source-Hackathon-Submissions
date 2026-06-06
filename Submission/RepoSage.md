@@ -31,10 +31,7 @@ Next.js 16 (App Router), React 19, TypeScript, Tailwind CSS v4, shadcn/ui, OpenR
 https://github.com/sparkyyy45/reposage
 
 **Live Demo Link:**  
-<!-- Add deployed link if available -->
-
-**Presentation / Demo Video Link:**  
-<!-- Optional but recommended -->
+https://the-repo-sage.vercel.app/
 
 ---
 
